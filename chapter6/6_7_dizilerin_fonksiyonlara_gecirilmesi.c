@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * C dilinde bir dizi, bir fonksiyona geçirildiğinde,
  *dizinin bir kopyası değil, dizinin adresi gönderilir.
  * Bu nedenle, fonksiyon içinde yapılan değişiklikler orijinal diziye yansır.
