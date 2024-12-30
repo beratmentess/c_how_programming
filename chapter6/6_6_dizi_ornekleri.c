@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Diziler, birçok gerçek dünya problemini çözmek için kullanılabilir.
  * Aşağıda çeşitli uygulama örnekleri verilmiştir:
  */
