@@ -1,3 +1,7 @@
+/*
+ *Mahir Berat Mentes
+ */
+
 //Bu vaka çalışmasında, bir sınıfın notlarını saklamak ve ortalamasını hesaplamak için bir dizi kullanıyoruz.
 
 
