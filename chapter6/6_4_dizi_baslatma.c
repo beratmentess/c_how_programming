@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Bir dizi, tanımlandığı sırada başlatılabilir.
  * Bu işlem, başlangıç değerlerini belirtmek için küme parantezleri {} kullanılarak yapılır.
  */
