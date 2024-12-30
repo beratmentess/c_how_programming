@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Dizinin elemanlarına indeks kullanılarak erişilir. İndeksler 0’dan başlar
  * Dizinin boyutundan bir eksik olana kadar devam eder.
  */
