@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *Bir dizi, yandaki sözdizimi ile bildirilir >>  tür dizi_adi[boyut];
  *tür: Dizinin elemanlarının veri türü.
  *dizi_adi: Dizinin adı.
