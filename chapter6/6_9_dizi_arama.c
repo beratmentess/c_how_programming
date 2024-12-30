@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Dizilerde belirli bir elemanı bulmak için arama algoritmaları kullanılır.
  * En temel algoritma, doğrusal arama (linear search) yöntemidir.
  */
