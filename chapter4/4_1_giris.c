@@ -10,3 +10,12 @@
  *Çoklu seçim yapıları (multiple-selection structures): Birden fazla koşul arasında seçim yapmak için kullanılır.
  *Bu kontrol yapıları, programlamayı daha esnek ve güçlü hale getirir. Karmaşık işlemler basit bir şekilde modellenebilir ve kod okunabilirliği artar.
  */
+
+/*
+ *Amaçlar
+ *Bu bölümün amacı:
+ *
+ *Döngülerin mantığını ve yapısını anlamak.
+ *Programda hangi blokların çalıştırılacağına karar veren kontrol ifadelerini etkili bir şekilde kullanmak.
+ *Yapısal programlamanın temel ilkelerine uygun kod yazmayı öğrenmek.
+ */
