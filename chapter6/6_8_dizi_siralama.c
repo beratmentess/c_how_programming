@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Diziler, genellikle artan veya azalan sıraya göre sıralanır.
  * En yaygın sıralama algoritmalarından biri seçme sıralama (selection sort) yöntemidir.
  *
