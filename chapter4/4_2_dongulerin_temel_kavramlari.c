@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *Bir döngü, belirli bir koşul doğru olduğu sürece bir dizi işlemi tekrar tekrar gerçekleştiren bir programlama yapısıdır. 
  *Döngüler, programların tekrarlayan işlemleri etkin bir şekilde gerçekleştirmesini sağlar. 
  *Döngülerde üç temel bileşen bulunur:
