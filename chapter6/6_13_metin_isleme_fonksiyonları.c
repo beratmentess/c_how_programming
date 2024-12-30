@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *C dilinde, karakter dizileriyle çalışmak için birçok standart fonksiyon sunulmuştur. 
  *Bu fonksiyonlar, <string.h> başlık dosyasında bulunur.
  */
