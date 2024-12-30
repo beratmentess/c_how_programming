@@ -1,4 +1,6 @@
-//Mahir Berat Mentes
+/*
+ *Mahir Berat Mentes
+ */
 
 /*
  * Bir dizi (array), aynı türdeki birden fazla veriyi saklamak için kullanılan bir veri yapısıdır.
