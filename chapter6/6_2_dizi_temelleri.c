@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *Bir dizi, sabit bir boyuta sahip veri elemanlarının sıralı bir koleksiyonudur.
  *Diziler C programlama dilinde aşağıdaki özelliklere sahiptir:
  *
