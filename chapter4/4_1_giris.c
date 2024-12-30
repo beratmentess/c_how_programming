@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *Bir programın kontrol akışını etkili bir şekilde yönetmek, başarılı bir yazılım geliştirme sürecinin temel taşlarından biridir. 
  *Kontrol yapıları, bir programın hangi kod bloklarının çalıştırılacağını ve bu blokların ne zaman çalıştırılacağını belirler.
  *
