@@ -1,4 +1,8 @@
-//C dilinde metinler, bir dizi karakterle temsil edilir. Bir karakter dizisi, sonunda bir null karakter ('\0') ile sonlandırılmıştır.
+/*
+ *Mahir Berat Mentes
+ */
+
+// C dilinde metinler, bir dizi karakterle temsil edilir. Bir karakter dizisi, sonunda bir null karakter ('\0') ile sonlandırılmıştır.
 
 // >> char metin[] = "Merhaba";
 /*
