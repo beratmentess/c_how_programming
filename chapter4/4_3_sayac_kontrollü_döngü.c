@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Sayaç kontrollü döngüler, belirli sayıda yineleme yapmak için kullanılır.
  * Bu tür döngülerde bir sayaç değişkeni kullanılır.
  * Döngünün başlatılması, sonlandırılması ve güncellenmesi kontrol edilir.
