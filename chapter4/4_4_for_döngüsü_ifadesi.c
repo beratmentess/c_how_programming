@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  *for döngüsü, sayaç kontrollü döngülerin en yaygın kullanılan türlerinden biridir. 
  *Bir işlemin belirli bir sayıda tekrar edilmesi gerektiğinde kullanılır.
  *for döngüsü, başlangıç, koşul ve güncelleme ifadelerini tek bir satırda belirtebileceğiniz yapı sağlar.
