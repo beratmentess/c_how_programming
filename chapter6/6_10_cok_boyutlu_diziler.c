@@ -1,4 +1,8 @@
 /*
+ *Mahir Berat Mentes
+ */
+
+/*
  * Bir çok boyutlu dizi, bir dizinin dizisi olarak düşünülebilir.
  * En yaygın kullanılan çok boyutlu dizi türü, iki boyutlu dizilerdir (tablolar).
  */
