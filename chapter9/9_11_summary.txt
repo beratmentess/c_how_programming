@@ -1,0 +1,25 @@
+/*
+ *Mahir Berat Mentes
+ */
+
+ Bu bölümde, C dilinin standart kütüphanesindeki önemli fonksiyonlar incelendi.
+ Aşağıdaki konular ele alındı:
+
+  1.	Standart Kütüphane Tanıtımı:
+      o	Standart kütüphanede bulunan başlık dosyaları ve bunların işlevleri açıklanmıştır.
+  2.	Giriş/Çıkış Fonksiyonları:
+      o	Kullanıcıdan veri almak (scanf, fgets) ve çıktı üretmek (printf, putchar) için kullanılan fonksiyonlar ele alınmıştır.
+  3.	Metin Dönüşüm Fonksiyonları:
+      o	Metinleri sayılara (atoi, atof) ve sayıları metne (sprintf) dönüştürme işlemleri açıklanmıştır.
+  4.	Bellek Tahsis Fonksiyonları:
+      o	Dinamik bellek yönetimi için malloc, calloc, realloc ve free fonksiyonlarının nasıl kullanıldığı gösterilmiştir.
+  5.	Matematik Fonksiyonları:
+      o	Matematiksel işlemleri kolaylaştıran sqrt, pow, fabs, ceil, floor gibi fonksiyonlar tanıtılmıştır.
+  6.	Rastgele Sayı Fonksiyonları:
+      o	Rastgele sayı üretimi için rand ve srand fonksiyonları ele alınmış ve belirli aralıklarda rastgele sayı üretme yöntemi açıklanmıştır.
+  7.	Zaman Fonksiyonları:
+      o	time, ctime, localtime gibi fonksiyonlarla zaman ve tarih bilgisi alınması ve formatlanması gösterilmiştir.
+  8.	Yardımcı Fonksiyonlar:
+      o	exit ve system gibi program kontrolü ve sistem komutları için kullanılan fonksiyonlar açıklanmıştır.
+  9.	Vaka Çalışması:
+      o	Kart karıştırma ve dağıtma uygulamasıyla, rastgele sayı üretimi ve dizilerin nasıl kullanılacağı pratik bir şekilde gösterilmiştir.
