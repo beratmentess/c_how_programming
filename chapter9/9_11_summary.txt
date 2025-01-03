@@ -23,3 +23,12 @@
       o	exit ve system gibi program kontrolü ve sistem komutları için kullanılan fonksiyonlar açıklanmıştır.
   9.	Vaka Çalışması:
       o	Kart karıştırma ve dağıtma uygulamasıyla, rastgele sayı üretimi ve dizilerin nasıl kullanılacağı pratik bir şekilde gösterilmiştir.
+
+
+>> C Programlamada Standart Kütüphane Önemi
+
+ C dilinin standart kütüphanesi, yazılım geliştirme sürecinde tekrar eden birçok görevi basitleştirir ve hızlandırır. Bu kütüphane, aşağıdaki avantajları sağlar:
+   •	Zaman Tasarrufu: Yaygın işlemler için hazır fonksiyonlar sunar.
+   •	Kodun Okunabilirliği: Daha temiz ve okunabilir kod yazılmasına olanak tanır.
+   •	Güvenilirlik: Test edilmiş ve optimize edilmiş fonksiyonlar kullanılır.
+
