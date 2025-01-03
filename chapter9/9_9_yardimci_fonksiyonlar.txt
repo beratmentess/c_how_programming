@@ -1,0 +1,15 @@
+/*
+ *Mahir Berat Mentes
+ */
+
+ 
+ C dilinde genel yardımcı işlevler <stdlib.h> ve diğer başlık dosyalarında bulunur.
+ Bu fonksiyonlar, genellikle program kontrolü ve tür dönüşümleri için kullanılır.
+
+>>Önemli Yardımcı Fonksiyonlar
+
+  Fonksiyon	   Açıklama	                                            Örnek Kullanım
+  exit(n)	     Programı belirtilen durum kodu ile sonlandırır	      exit(0);
+  system()	   Komut satırı komutlarını çalıştırır	                system("cls");
+
+ 
