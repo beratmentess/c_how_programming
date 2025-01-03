@@ -2,5 +2,6 @@
  *Mahir Berat Mentes
  */
 
-C dilinde, standart kütüphane, yaygın işlemleri kolaylaştırmak için çok sayıda yerleşik fonksiyon sunar. Bu kütüphane, giriş/çıkış işlemleri, metin işleme, bellek yönetimi ve matematiksel hesaplamalar gibi işlevleri içerir.
+C dilinde, standart kütüphane, yaygın işlemleri kolaylaştırmak için çok sayıda yerleşik fonksiyon sunar.
+Bu kütüphane, giriş/çıkış işlemleri, metin işleme, bellek yönetimi ve matematiksel hesaplamalar gibi işlevleri içerir.
 Bu bölümde, standart kütüphanedeki önemli fonksiyonlar ve bunların kullanımları ele alınmaktadır.
