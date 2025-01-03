@@ -1,0 +1,17 @@
+/*
+ *Mahir Berat Mentes
+ */
+
+C dilinin standart kütüphanesi, farklı başlık dosyalarında organize edilmiş fonksiyonlardan oluşur. 
+Her başlık dosyası, belirli bir işlev kümesi sağlar.
+
+>> Önemli Başlık Dosyaları
+""
+Başlık Dosyası	    Açıklama
+<stdio.h>	          Giriş/çıkış işlemleri için fonksiyonlar
+<stdlib.h>	        Genel amaçlı yardımcı fonksiyonlar
+<string.h>	        Metin işleme ve dizi manipülasyonu fonksiyonları
+<math.h>	          Matematiksel işlemler için fonksiyonlar
+<time.h>	          Tarih ve zaman işlemleri
+
+""
